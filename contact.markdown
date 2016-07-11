@@ -2,5 +2,4 @@
 title: Contact
 ---
 
-I live in a small hut in the mountains of Kumano Kodō on Kii Hantō and would not
-like to be contacted.
+You can contact me by emailing contact@fishcorn.info, or you can [follow me on twitter](http://twitter.com/moeller_ml).
